@@ -1,6 +1,7 @@
 # Cleemate: Smart Health Recommendations
 ![Cleemate : Smart Health Recommendations](https://github.com/Capstone-Project-Cleemate/.github/blob/main/Cleemate.png/)
 
+# Bangkit Project Capstone C242-PS573
 ## About the Project
 Our project, **Cleemate**, addresses the rising health risks caused by drastic climate changes, including extreme weather and pollution. According to the WHO, climate-related health impacts could lead to over 250,000 deaths annually by 2050. Despite this, many people, especially in developing countries like Indonesia, lack access to personalized health guidance during extreme weather events. This app uses Machine Learning to provide tailored recommendations for health maintenance and recovery, helping users make better decisions in adverse climate conditions.
 
